@@ -1,1 +1,1 @@
-# landing-page
+Realización de una pagina web con flexbox, e intentando utilizar los commits de forma ordenada.
