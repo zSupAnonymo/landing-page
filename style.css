@@ -139,7 +139,7 @@ nav {
 }
 
 .call-to-action-section {
-    background-color: #560BAD;
+    background-color: #480CA8;
     padding: 80px 60px 80px 60px;
 }
 
@@ -173,4 +173,11 @@ nav {
     color: #ff82ea;
     font-size: 16px;
     font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    background-color: #560BAD;
+    color: white;
 }
