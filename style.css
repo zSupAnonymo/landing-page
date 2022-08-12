@@ -116,4 +116,24 @@ nav {
     padding: 50px 60px 50px 60px;
 }
 
-.quote
+.quote-article {
+    width: 50%;
+    margin: auto;
+    display: column;
+}
+
+.quote-text {
+    color: #ff82ea;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.cite {
+    float: right;
+    font-size: 24px;
+    color:#fb00ff;
+    font-weight: bold;
+    margin-right: 25px;
+    margin-top: -25px;
+}
