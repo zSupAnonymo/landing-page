@@ -137,3 +137,8 @@ nav {
     margin-right: 25px;
     margin-top: -25px;
 }
+
+.call-to-action-section {
+    background-color: #480CA8;
+    padding: 50px 60px 50px 60px;
+}
