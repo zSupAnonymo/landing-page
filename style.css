@@ -90,3 +90,8 @@ nav {
     font-weight: 900;
     color: #F72585;
 }
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+}
