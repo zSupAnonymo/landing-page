@@ -19,7 +19,7 @@ nav {
 }
 
 .headerlogo {
-    color: #F72585;
+    color: #fb00ff;
     font-size: 24px;
     font-weight: bold;
 }
@@ -31,7 +31,7 @@ nav {
 
 .links {
     text-decoration: none;
-    color: #F72585;
+    color: #ff82ea;
     font-size: 18px;
     font-weight: 400;
 }
@@ -55,12 +55,12 @@ nav {
 .hero-text-main {
     font-size: 48px;
     font-weight: 900;
-    color: #F72585;
+    color: #fb00ff;
 }
 
 .hero-subtext {
     font-size: 18px;
-    color: #B5179E;
+    color: #ff82ea;
 }
 
 .hero-image-container {
@@ -89,7 +89,7 @@ nav {
     font-size: 36px;
     margin-bottom: 50px;
     font-weight: 900;
-    color: #F72585;
+    color: #fb00ff;
 }
 
 .info-container {
@@ -108,5 +108,5 @@ nav {
 
 .textinfo {
     width: 200px;
-    color: #B5179E;
+    color: #ff82ea;
 }
