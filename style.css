@@ -139,6 +139,38 @@ nav {
 }
 
 .call-to-action-section {
-    background-color: #480CA8;
-    padding: 50px 60px 50px 60px;
+    background-color: #560BAD;
+    padding: 80px 60px 80px 60px;
+}
+
+.call-to-action {
+    background-color: #6b0ed4;
+    width: 50%;
+    margin: auto;
+    padding: 25px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.call-to-action-text {
+    font-size: 24px;
+    font-weight: bold;
+    color:#fb00ff;
+}
+
+.call-to-action-subtext {
+    font-size: 16px;
+    color:#ff82ea;
+}
+
+.signup {
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: 2px solid #fb00ff;
+    background-color: #6b0ed4;
+    color: #ff82ea;
+    font-size: 16px;
+    font-weight: 600;
 }
