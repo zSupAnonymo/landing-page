@@ -75,7 +75,7 @@ nav {
 }
 
 .information-section {
-    background-color: #3A0CA3;
+    background-color: #480CA8;
     padding: 50px 60px 50px 60px;
 }
 
@@ -102,8 +102,11 @@ nav {
 .info-img {
     width: 200px;
     height: 200px;
+    border: 4px solid #6b0ed4;
+    border-radius: 10px;
 }
 
 .textinfo {
     width: 200px;
+    color: #B5179E;
 }
