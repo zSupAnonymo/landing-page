@@ -87,6 +87,7 @@ nav {
 
 .title-random-information {
     font-size: 36px;
+    margin-bottom: 50px;
     font-weight: 900;
     color: #F72585;
 }
@@ -94,4 +95,15 @@ nav {
 .info-container {
     display: flex;
     justify-content: space-between;
+    text-align: center;
+    gap: 50px
+}
+
+.info-img {
+    width: 200px;
+    height: 200px;
+}
+
+.textinfo {
+    width: 200px;
 }
