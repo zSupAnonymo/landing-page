@@ -36,3 +36,40 @@ nav {
     font-weight: 400;
 }
 
+.hero {
+    background-color: #560BAD;
+    padding: 50px 60px 50px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-text-container {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: auto;
+    margin-right: 50px;
+}
+
+.hero-text-main {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F72585;
+}
+
+.hero-subtext {
+    font-size: 18px;
+    color: #B5179E;
+}
+
+.hero-image-container {
+    width: 500px;
+    height: 350px;
+    display: flex;
+}
+
+.hero-img {
+    width: 100%;
+    height: 100%;
+}
